@@ -27,7 +27,7 @@
 </p>
 
 
-<h3 align="left">Other Libraries:</h3>
+<h3 align="left">Others:</h3>
 <p align="left">
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
