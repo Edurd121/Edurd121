@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Eduardo Bourget</h1>
 <h3 align="center">I am a Senior Computer Science Major and Mathematics minor at the University of Central Florida.</h3>
 
-<h3 align="left">Current Project I'm working on: https://www.cs.ucf.edu/cssd/</h3>
+<h2 align="left">Current Project I'm working on: https://www.cs.ucf.edu/cssd/</h3>
 
 <h3 align="left">Stack Languages and tools:</h3>
 <p align="left"> 
