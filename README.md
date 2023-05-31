@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Eduardo Bourget</h1>
-<h3 align="center">I am a Senior Computer Science Major and Mathematics minor at the University of Central Florida.</h3>
+<h3 align="center">I am Master's student in Computer Science at the University of Central Florida.</h3>
 
 <h4 align="left">Current Project I'm working on: https://www.cs.ucf.edu/cssd/</h3>
 
