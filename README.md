@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Eduardo Bourget</h1>
 <h3 align="center">I am A/AI Systems Engineer CWEP at Lockheed Martin and a Master's student in Computer Science at the University of Central Florida.</h3>
 
-<h4 align="left">Current Project I'm working on: https://www.cs.ucf.edu/cssd/</h3>
+<h4 align="left">Past Project I worked on for Final senior design course: https://www.cs.ucf.edu/cssd/</h3>
 
 <h3 align="left">Stack Languages and tools:</h3>
 <p align="left"> 
